@@ -10,4 +10,4 @@ Se realizo un cambio en la dependecia para trabajar en PostgreSQL en lugar de H2
 ![image](https://github.com/PaulinaAnz25/Hotels_H2-a-Relacional/assets/147875196/f4714ef3-0abf-4186-80a3-769f08dda30b)
 
 # EJECUCIÓN
-![image](https://github.com/PaulinaAnz25/Hotels_H2-a-Relacional/assets/147875196/38e39ae6-cf13-4f75-bd20-aad90baa0e59)
+![image](https://github.com/PaulinaAnz25/Hotels_H2-a-Relacional/assets/147875196/83ef5999-662c-4ffc-8df4-0e01cf2f08eb)
